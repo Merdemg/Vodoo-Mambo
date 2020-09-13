@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Tabla de Clasificación
+MainMenu--LeaderBoard-Login: Inicia sesión y compite con otros
+MainMenu--LeaderBoard-Loading: Cargando…
+MainMenu--LeaderBoard-Friends: amigos
+MainMenu--LeaderBoard-Global: global
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: IMPULSOS
+PreGame--PowerUp-Description-Select: ¡Selecciona uno o más impulsos!
+PreGame--PowerUp-Description--combo-powerup: Su multiplicador de puntaje mínimo se convierte en x2.
+PreGame--PowerUp-Description--time-powerup: Agrega 5 segundos más a tu tiempo.
+PreGame--PowerUp-Description--boost-bomb: Aumenta el radio del hechizo de bomba
+PreGame--PowerUp-Description--boost-vortex: El agujero negro dura 1 segundo más.
+PreGame--PowerUp-Description--boost-level-up: Aumenta el radio del hechizo para subir de nivel.
+
+PreGame--Skins-Title: TRAJES
+PreGame--Skins-Coming-Soon: Próximamente ...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Inicia sesión y compite con otros
+EndGame--LeaderBoard-Reset: Reinicios en %ResetTime% días
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Inicia sesión para ver los logros
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NUEVA PUNTUACIÓN ALTA
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Nivel
+Ingame--Time-Up: ¡Se acabó el tiempo!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: FUERA DE MONEDAS
+Out-of-coin--Popup-Text: Haga clic aquí para comprar monedas
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Cargando…
+Loading--Popup-Text: Cargando…
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SONIDO
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ARTE
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CODIGO
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CODIGO
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DISEÑO
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Cargando…
+Tips--Random-Tip-1: ¡Tabla de clasificación se reinicia semanalmente y Recompensa a los mejores con medallas!
+Tips--Random-Tip-2: Puedes arrastrar y soltar múltiples burbujas en el agujero negro.
+Tips--Random-Tip-3: Juega más rápido para aumentar tu multiplicador y alcanzar tu puntaje más alto.
+Tips--Random-Tip-4: ¡No te enfades con amigos que constantemente superan tu puntuación!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NUEVA MEDALLA
+Medal--Alert-Text: Obtuviste una nueva  %MedalName% medalla la semana pasada al obtener %MedalScore% puntos.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Primer juego
+Achievement--Alert-Text--FIRSTGAME: Jugué un juego
+Achievement--Alert-Title--MEDALGOLD: El primero de semana
+Achievement--Alert-Text--MEDALGOLD: El primero de semana
+Achievement--Alert-Title--MEDALSILVER: El segundo de semana
+Achievement--Alert-Text--MEDALSILVER: El segundo de semana
+Achievement--Alert-Title--MEDALBRONZE: El tercero de semana
+Achievement--Alert-Text--MEDALBRONZE: El tercero de semana
+Achievement--Alert-Title--SCORE1: Puntuación 10000
+Achievement--Alert-Text--SCORE1: Puntuación 10000
+Achievement--Alert-Title--SCORE2: Puntuación 20000
+Achievement--Alert-Text--SCORE2: Puntuación 20000
+Achievement--Alert-Title--SCORE3: Puntuación 40000
+Achievement--Alert-Text--SCORE3: Puntuación 40000
+Achievement--Alert-Title--SCORE4: Puntuación 80000
+Achievement--Alert-Text--SCORE4: Puntuación 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: ¡ESTÁ BIEN!
+Shaman--Blackhole: AGUJERO NEGRO!
+Shaman--Nice: ¡BUENO!
+Shaman--Yeah: ¡SI!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Nivel
+Common--Extra-Time: ¡Tiempo extra!
+Common--Ready: Listo
+Common--Ready-Excl: ¿Listo?
+Common--Go: Vamos
+Common--Go-Excl: ¡Vamos!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Compra fracasada
+Dialog--Purchase-Fail-Text: La compra no podía ser completada, por favor intente otra vez.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Saltar
+Cinematic--Scene-01: ¡Los chamanes se reunieron en el bosque para mostrar sus habilidades!
+Cinematic--Scene-02: un grak!
+Cinematic--Scene-03: a luys!
+Cinematic--Scene-04: un mahzun!
+Cinematic--Scene-05: un gran fracaso ...
+Cinematic--Scene-06: Y así, nuestro viaje comienza a ser un gran chamán ...

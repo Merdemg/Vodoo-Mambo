@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7608b73e9b02a4c568ced28ebbc3d93a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Capture it
+  fontNames:
+  - Capture it
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a29488777b8a54b4d85c78542c9e6b59, type: 3}
+  - {fileID: 12800000, guid: 0ee0f7cd05bd348bc842970717d68410, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

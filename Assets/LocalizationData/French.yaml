@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Le Classement
+MainMenu--LeaderBoard-Login: Connecte-toi et joue contre les autres
+MainMenu--LeaderBoard-Loading: Chargement...
+MainMenu--LeaderBoard-Friends: amis
+MainMenu--LeaderBoard-Global: global
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: BOOSTERS
+PreGame--PowerUp-Description-Select: Sélectionnez un ou plusieurs boosters!
+PreGame--PowerUp-Description--combo-powerup: Ton multiplicateur minimum de score devient x2.
+PreGame--PowerUp-Description--time-powerup: Ajoute 5 secondes de plus à ton temps.
+PreGame--PowerUp-Description--boost-bomb: Augmente le rayon du sort des bombes
+PreGame--PowerUp-Description--boost-vortex: Le trou noir dure 1 seconde de plus.
+PreGame--PowerUp-Description--boost-level-up: Augmente le rayon du sort de mise à niveau.
+
+PreGame--Skins-Title: APPARENCES
+PreGame--Skins-Coming-Soon: Très bientôt...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Connecte-toi et joue contre les autres
+EndGame--LeaderBoard-Reset: Remise à zéro dans %ResetTime% jours
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Connectez-vous pour voir les résultats
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: MEILLEUR SCORE
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Niveau
+Ingame--Time-Up: Le temps est écoulé!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: PİÈCES TERMİNÉES
+Out-of-coin--Popup-Text: Cliquez ici pour acheter des sous
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Chargement...
+Loading--Popup-Text: Chargement...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SON
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ART
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CODE
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CODE
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DESIGN
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Chargement...
+Tips--Random-Tip-1: Le classement se réinitialise chaque semaine et le meilleur gagne la médaille!
+Tips--Random-Tip-2: Tu peux sélectionner et déposer plusieurs bulles dans le trou noir.
+Tips--Random-Tip-3: Joue plus vite pour augmenter ton multiplicateur et bat ton score.
+Tips--Random-Tip-4: Ne te fâche pas avec les amis qui battent toujours ton score!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NOUVELLE MÉDAILLE
+Medal--Alert-Text: Tu as gagné une nouvelle médaille %MedalName% la semaine dernière en obtenant %MedalScore% points.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Premier jeu
+Achievement--Alert-Text--FIRSTGAME: A joué un jeu
+Achievement--Alert-Title--MEDALGOLD: Premier de la semaine
+Achievement--Alert-Text--MEDALGOLD: Premier de la semaine
+Achievement--Alert-Title--MEDALSILVER: Deuxième de la semaine
+Achievement--Alert-Text--MEDALSILVER: Deuxième de la semaine
+Achievement--Alert-Title--MEDALBRONZE: Troisième de la semaine
+Achievement--Alert-Text--MEDALBRONZE: Troisième de la semaine
+Achievement--Alert-Title--SCORE1: 10000 Points
+Achievement--Alert-Text--SCORE1: 10000 Points
+Achievement--Alert-Title--SCORE2: 20000 Points
+Achievement--Alert-Text--SCORE2: 20000 Points
+Achievement--Alert-Title--SCORE3: 40000 Points
+Achievement--Alert-Text--SCORE3: 40000 Points
+Achievement--Alert-Title--SCORE4: 80000 Points
+Achievement--Alert-Text--SCORE4: 80000 Points
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: BIEN!
+Shaman--Blackhole: TROU NOIR!
+Shaman--Nice: BON!
+Shaman--Yeah: YEAH!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Niveau
+Common--Extra-Time: Temps Supplémentaire!
+Common--Ready: Prêt
+Common--Ready-Excl: Prêt?
+Common--Go: Allez
+Common--Go-Excl: Allez!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Achat échoué
+Dialog--Purchase-Fail-Text: L’achat n'a pas pu être effectué, veuillez réessayer.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Passer
+Cinematic--Scene-01: Les chamans se sont rassemblés dans les bois pour montrer leurs talents!
+Cinematic--Scene-02: un grak!
+Cinematic--Scene-03: un luys!
+Cinematic--Scene-04: un mahzun!
+Cinematic--Scene-05: un grand échec...
+Cinematic--Scene-06: Et donc, notre voyage pour devenir un grand chaman commence...

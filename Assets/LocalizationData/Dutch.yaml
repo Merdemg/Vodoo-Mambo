@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Klassementen
+MainMenu--LeaderBoard-Login: Log in en strijd tegen anderen
+MainMenu--LeaderBoard-Loading: Wordt geladen…
+MainMenu--LeaderBoard-Friends: vrienden
+MainMenu--LeaderBoard-Global: wereldwijd
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: BOOSTS
+PreGame--PowerUp-Description-Select: Kies 1 of meer boosts!
+PreGame--PowerUp-Description--combo-powerup: De minimum score wordt verdubbeld
+PreGame--PowerUp-Description--time-powerup: Voegt 5 extra seconden aan jouw tijd toe
+PreGame--PowerUp-Description--boost-bomb: Vergroot de straal van de bom spreuk
+PreGame--PowerUp-Description--boost-vortex: Zwarte gat duurt 1 seconde langer
+PreGame--PowerUp-Description--boost-level-up: Vergroot de straal van de level up spreuk
+
+PreGame--Skins-Title: SKINS
+PreGame--Skins-Coming-Soon: Komt Binnenkort…
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Log in en strijd tegen anderen
+EndGame--LeaderBoard-Reset: Wordt gereset in %ResetTime% dagen
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Log in om prestaties te zien
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NIEUWE HOOGSTE SCORE
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Level
+Ingame--Time-Up: Tijd is op!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: GEEN MUNTEN
+Out-of-coin--Popup-Text: Klik hier om munten te kopen
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Wordt geladen…
+Loading--Popup-Text: Wordt geladen…
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: GELUID
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: GRAFISCHE VORMGEVING
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: PROGRAMMEUR
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: PROGRAMMEUR
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: SPELONTWERP
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Wordt geladen…
+Tips--Random-Tip-1: Klassementen worden wekelijks gereset en de beste krijgt een medaille!
+Tips--Random-Tip-2: Je kunt meerdere luchtbellen naar het zwarte gat slepen
+Tips--Random-Tip-3: Speel sneller om je score vermenigvuldiger te verhogen en score meer
+Tips--Random-Tip-4: Wees niet boos op vrienden die steeds hoger scoren dan jij
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NIEUWE MEDAILLE
+Medal--Alert-Text: Je hebt een nieuwe %MedalName% medaille verdient vorige week door %MedalScore% punten te scoren
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Eerste spel
+Achievement--Alert-Text--FIRSTGAME: Een spel gespeeld
+Achievement--Alert-Title--MEDALGOLD: No 1 van de week
+Achievement--Alert-Text--MEDALGOLD: No 1 van de week
+Achievement--Alert-Title--MEDALSILVER: No 2 van de week
+Achievement--Alert-Text--MEDALSILVER: No 2 van de week
+Achievement--Alert-Title--MEDALBRONZE: No 3 van de week
+Achievement--Alert-Text--MEDALBRONZE: No 3 van de week
+Achievement--Alert-Title--SCORE1: Score 10000
+Achievement--Alert-Text--SCORE1: Score 10000
+Achievement--Alert-Title--SCORE2: Score 20000
+Achievement--Alert-Text--SCORE2: Score 20000
+Achievement--Alert-Title--SCORE3: Score 40000
+Achievement--Alert-Text--SCORE3: Score 40000
+Achievement--Alert-Title--SCORE4: Score 80000
+Achievement--Alert-Text--SCORE4: Score 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOEM!
+Shaman--Alright: OK DAN!
+Shaman--Blackhole: ZWARTE GAT!
+Shaman--Nice: LEKKER!
+Shaman--Yeah: MOOI ZO!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Level
+Common--Extra-Time: Extra tijd
+Common--Ready: Klaar
+Common--Ready-Excl: Klaar?
+Common--Go: Af
+Common--Go-Excl: Af!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Aankoop Mislukt
+Dialog--Purchase-Fail-Text: Aankoop kon niet voltooid worden, probeer aub opnieuw
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Sla over
+Cinematic--Scene-01: De shamans hebben zich in het bos verzameld om hun kunsten te laten zien!
+Cinematic--Scene-02: a grak!
+Cinematic--Scene-03: a luys!
+Cinematic--Scene-04: a mahzun!
+Cinematic--Scene-05: mislukt...
+Cinematic--Scene-06: En zo begint onze reis om een geweldige shaman te worden

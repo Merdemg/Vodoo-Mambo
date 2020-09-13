@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: 리더 보드
+MainMenu--LeaderBoard-Login: 로그 인 하시고 경기를 시작하세요
+MainMenu--LeaderBoard-Loading: 로딩…
+MainMenu--LeaderBoard-Friends: 친구들
+MainMenu--LeaderBoard-Global: 글로발
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: 부스트
+PreGame--PowerUp-Description-Select: 한개 또는 더 추가 부스트를 선택하기!
+PreGame--PowerUp-Description--combo-powerup: 당신의 최하 점수 승수는 2배로 증가됩니다.
+PreGame--PowerUp-Description--time-powerup: 시간은 5초 더 추가
+PreGame--PowerUp-Description--boost-bomb: 폭탄 주문 반경 증가
+PreGame--PowerUp-Description--boost-vortex: 블랙홀은 1 초 이상 지속 됩니다.
+PreGame--PowerUp-Description--boost-level-up: 레벨 점프는 점수 승수를 증가시킵니다.
+
+PreGame--Skins-Title: 의상들
+PreGame--Skins-Coming-Soon: 출시 예정...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: 로그인하시고 다른 사람과 경기하세요
+EndGame--LeaderBoard-Reset: %ResetTime% 하루 이내에 재설정
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: 성공한것을 보기위해 로그인 하기
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: 새 최고 점수
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: 레벨
+Ingame--Time-Up: 시간 완료
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: 동전 아웃
+Out-of-coin--Popup-Text: 동전을 사기위해 여기를 클릭하기
+
+
+# Loading Popup
+#
+Loading--Popup-Title: 로딩…
+Loading--Popup-Text: 로딩…
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: 소리
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: 예술
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: 코드
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: 코드
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: 디자인
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: 로딩…
+Tips--Random-Tip-1: 리더 보드는 매주 갱신되고 우승자에 메달을 수여합니다.
+Tips--Random-Tip-2: 한번에 여러 거품을 끌어내서 블랙홀에 놓을 수 있습니다
+Tips--Random-Tip-3: 승수를 증가시켜 점수를 높이려면 더 빠르게 시합하세요
+Tips--Random-Tip-4: 끊임없이 점수를 전달하는 친구들에게 화를 내지 마십시오!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: 새 메달
+Medal--Alert-Text: 지난 주에 %MedalScore% 포인트를 획득하여 새로운  %MedalName% 메달을 획득했습니다
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: 처음 게임
+Achievement--Alert-Text--FIRSTGAME: 한  게임 시작됨
+Achievement--Alert-Title--MEDALGOLD: 주간의 첫째
+Achievement--Alert-Text--MEDALGOLD: 주간의 첫째
+Achievement--Alert-Title--MEDALSILVER: 주간의 둘째
+Achievement--Alert-Text--MEDALSILVER: 주간의 둘째
+Achievement--Alert-Title--MEDALBRONZE: 주간의 셋째
+Achievement--Alert-Text--MEDALBRONZE: 주간의 셋째
+Achievement--Alert-Title--SCORE1: 점수 10000
+Achievement--Alert-Text--SCORE1: 점수 10000
+Achievement--Alert-Title--SCORE2: 점수 20000
+Achievement--Alert-Text--SCORE2: 점수 20000
+Achievement--Alert-Title--SCORE3: 점수 40000
+Achievement--Alert-Text--SCORE3: 점수 40000
+Achievement--Alert-Title--SCORE4: 점수 80000
+Achievement--Alert-Text--SCORE4: 점수 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: 붐!
+Shaman--Alright: 오케이!
+Shaman--Blackhole: 블랙홀!
+Shaman--Nice: 좋아!
+Shaman--Yeah: 야호!
+
+
+# GenPop, shared phrases
+#
+Common--Level: 레벨
+Common--Extra-Time: 여분 시간
+Common--Ready: 준비
+Common--Ready-Excl: 준비 되었나요?
+Common--Go: 시작
+Common--Go-Excl: 시작!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: 구매가 실패
+Dialog--Purchase-Fail-Text: 구매가 불완료, 다시 시도하기
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: 건너 뛰기
+Cinematic--Scene-01: 주술사들은 힘을 발휘하기 위해서 밀림에서 만남!
+Cinematic--Scene-02: 그락!
+Cinematic--Scene-03: 루이스!
+Cinematic--Scene-04: 마흐준!
+Cinematic--Scene-05: 큰 실수…
+Cinematic--Scene-06: 그래서 위대한 주술사가 되기 위한 우리의 여정이 시작됩니다 .

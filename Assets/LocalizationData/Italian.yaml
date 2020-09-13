@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: La Classifica
+MainMenu--LeaderBoard-Login: Accedi e competi con gli altri
+MainMenu--LeaderBoard-Loading: Caricamento in corso…
+MainMenu--LeaderBoard-Friends: Amici
+MainMenu--LeaderBoard-Global: Generale
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: RINFORZO
+PreGame--PowerUp-Description-Select: Seleziona uno o più rinforzo!
+PreGame--PowerUp-Description--combo-powerup: Il moltiplicatore del punteggio minimo diventa x2.
+PreGame--PowerUp-Description--time-powerup: Aggiunge altri 5 secondi al vosro tempo.
+PreGame--PowerUp-Description--boost-bomb: Aumenta il raggio dell'incantesimo della bomba
+PreGame--PowerUp-Description--boost-vortex: Il buco nero dura 1 secondo in più.
+PreGame--PowerUp-Description--boost-level-up: Aumenta il raggio dell'incantesimo per salire di livello.
+
+PreGame--Skins-Title: COSTUMI
+PreGame--Skins-Coming-Soon: Prossimamente…
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Accedi e competi con gli altri
+EndGame--LeaderBoard-Reset: % DaysLeft% viene ripristinato in giorni
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Accedi per vedere i risultati
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NUOVO PUNTEGGIO PIÙ ALTO
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Livello
+Ingame--Time-Up: Tempo scaduto!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: MONETE FUORI
+Out-of-coin--Popup-Text: Clicca qui per acquistare monete
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Caricamento in corso
+Loading--Popup-Text: Caricamento in corso
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SUONO
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ARTE
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CODICE
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CODICE
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DISEGNO
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Caricamento in corso…
+Tips--Random-Tip-1: La classifica viene reimpostata su base settimanale e assegna la medaglia per il meglio!
+Tips--Random-Tip-2: Puoi trascinare e rilasciare più bolle nel buco nero.
+Tips--Random-Tip-3: Gioca più velocemente per aumentare il moltiplicatore e aumentare il tuo punteggio.
+Tips--Random-Tip-4: Non arrabbiarti con gli amici che battono costantemente il tuo punteggio!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NUOVA MEDAGLIA
+Medal--Alert-Text: Hai guadagnato una nuova medaglia %MedalName% la scorsa settimana segnando punti %MedalScore%.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Primo gioco
+Achievement--Alert-Text--FIRSTGAME: Ho giocato un gioco
+Achievement--Alert-Title--MEDALGOLD: Numero uno della settimana
+Achievement--Alert-Text--MEDALGOLD: Numero uno della settimana
+Achievement--Alert-Title--MEDALSILVER: Numero due della settimana
+Achievement--Alert-Text--MEDALSILVER: Numero due della settimana
+Achievement--Alert-Title--MEDALBRONZE: Numero tre della settimana
+Achievement--Alert-Text--MEDALBRONZE: Numero tre della settimana
+Achievement--Alert-Title--SCORE1: Punteggio 10000
+Achievement--Alert-Text--SCORE1: Punteggio 10000
+Achievement--Alert-Title--SCORE2: Punteggio 20000
+Achievement--Alert-Text--SCORE2: Punteggio 20000
+Achievement--Alert-Title--SCORE3: Punteggio 40000
+Achievement--Alert-Text--SCORE3: Punteggio 40000
+Achievement--Alert-Title--SCORE4: Punteggio 80000
+Achievement--Alert-Text--SCORE4: Punteggio 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: TUTTO A POSTO!
+Shaman--Blackhole: BUCO NERO!
+Shaman--Nice: SIMPATICO!
+Shaman--Yeah: ECCO!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Livello
+Common--Extra-Time: Tempo extra!
+Common--Ready: Pronta
+Common--Ready-Excl: Pronta?
+Common--Go: Inizia
+Common--Go-Excl: Inizia!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Acquisto fallito
+Dialog--Purchase-Fail-Text: L'acquisto non è stato completato, riprovare per favore.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Salta
+Cinematic--Scene-01: Gli sciamani si sono radunati nei boschi per mostrare le loro abilità!
+Cinematic--Scene-02: Un grak!
+Cinematic--Scene-03: Un luys!
+Cinematic--Scene-04: Un mahzun!
+Cinematic--Scene-05: Un grande fallimento…
+Cinematic--Scene-06: E così il nostro viaggio inizia ad essere un grande sciamano …

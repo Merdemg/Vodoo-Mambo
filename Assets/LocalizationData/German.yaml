@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Die Punkteliste
+MainMenu--LeaderBoard-Login: Einloggen und gegen andere spielen
+MainMenu--LeaderBoard-Loading: Lädt...
+MainMenu--LeaderBoard-Friends: Freunde
+MainMenu--LeaderBoard-Global: Allgemein
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: BOOSTS
+PreGame--PowerUp-Description-Select: Wähle mindestens einen Boost!
+PreGame--PowerUp-Description--combo-powerup: Dein kleinster Multiplier wird x2
+PreGame--PowerUp-Description--time-powerup: Fügt deiner Zeit 5 Sekunden hinzu
+PreGame--PowerUp-Description--boost-bomb: Vergrößert den Diameter des Bombenzaubers
+PreGame--PowerUp-Description--boost-vortex: Das schwarze Loch bleibt 1 Sekunde länger
+PreGame--PowerUp-Description--boost-level-up: Vergrößert den Diameter des Levelaufstieg-Zaubers
+
+PreGame--Skins-Title: KOSTÜME
+PreGame--Skins-Coming-Soon: In Kürze...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Einloggen und gegen andere spielen
+EndGame--LeaderBoard-Reset: Wird in %ResetTime% Tagen zurückgesetzt
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Einloggen um Erfolge zu sehen
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NEUER HIGHSCORE
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Level
+Ingame--Time-Up: Zeit abgelaufen!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: KEINE MÜNZEN MEHR
+Out-of-coin--Popup-Text: Zum Kaufen hier klicken
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Lädt...
+Loading--Popup-Text: Lädt...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: AUDIO
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: GRAFIK
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CODE
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CODE
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DESIGN
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Lädt...
+Tips--Random-Tip-1: Die Punkteliste erneuert sich wöchentlich und der beste Spieler erhält eine Medaille!
+Tips--Random-Tip-2: Du kannst mehrere Blasen auf einmal in das schwarze Loch ziehen.
+Tips--Random-Tip-3: Spiele schneller, um den Multiplier zu erhöhen und mehr Punkte zu erhalten.
+Tips--Random-Tip-4: Sei nicht böse auf Freunde, die deinen Punktzahl überschreiten!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NEUE MEDAILLE
+Medal--Alert-Text: Letzte Woche hast du %MedalScore% Punkte erhalten und eine neue %MedalName% Medaille gewonnen.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Erstes Spiel
+Achievement--Alert-Text--FIRSTGAME: Hat ein Spiel gespielt
+Achievement--Alert-Title--MEDALGOLD: Nummer Eins der Woche
+Achievement--Alert-Text--MEDALGOLD: Nummer Eins der Woche
+Achievement--Alert-Title--MEDALSILVER: Nummer Zwei der Woche
+Achievement--Alert-Text--MEDALSILVER: Nummer Zwei der Woche
+Achievement--Alert-Title--MEDALBRONZE: Nummer Drei der Woche
+Achievement--Alert-Text--MEDALBRONZE: Nummer Drei der Woche
+Achievement--Alert-Title--SCORE1: Punkte 10000
+Achievement--Alert-Text--SCORE1: Punkte 10000
+Achievement--Alert-Title--SCORE2: Punkte 20000
+Achievement--Alert-Text--SCORE2: Punkte 20000
+Achievement--Alert-Title--SCORE3: Punkte 40000
+Achievement--Alert-Text--SCORE3: Punkte 40000
+Achievement--Alert-Title--SCORE4: Punkte 80000
+Achievement--Alert-Text--SCORE4: Punkte 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: OK!
+Shaman--Blackhole: SCHWARZES LOCH!
+Shaman--Nice: SUPER!
+Shaman--Yeah: YEAH!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Level
+Common--Extra-Time: Extra Zeit!
+Common--Ready: Fertig
+Common--Ready-Excl: Fertig?
+Common--Go: Los
+Common--Go-Excl: Los!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Kauf fehlgeschlagen
+Dialog--Purchase-Fail-Text: Kauf ist fehlgeschlagen, bitte erneut versuchen.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Überspringen
+Cinematic--Scene-01: Die Schamanen haben sich im Dschungel getroffen, um ihre Kräfte zu zeigen!
+Cinematic--Scene-02: Ein Grak!
+Cinematic--Scene-03: Ein Luys!
+Cinematic--Scene-04: Ein Mahzun!
+Cinematic--Scene-05: ein großer Fehler!
+Cinematic--Scene-06: So beginnt deine Reise als großer Schamane...

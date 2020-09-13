@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Leaderboard
+MainMenu--LeaderBoard-Login: Login and compete with others
+MainMenu--LeaderBoard-Loading: loading...
+MainMenu--LeaderBoard-Friends: friends
+MainMenu--LeaderBoard-Global: global
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: BOOSTS
+PreGame--PowerUp-Description-Select: Select one or more boosts!
+PreGame--PowerUp-Description--combo-powerup: Your minumum score multiplier becomes x2.
+PreGame--PowerUp-Description--time-powerup: Adds 5 more seconds to your time.
+PreGame--PowerUp-Description--boost-bomb: Increases radius of bomb spell
+PreGame--PowerUp-Description--boost-vortex: Blackhole lasts 1 more second.
+PreGame--PowerUp-Description--boost-level-up: Increases radius of level up spell.
+
+PreGame--Skins-Title: SKINS
+PreGame--Skins-Coming-Soon: Coming Soon...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Login and compete with others
+EndGame--LeaderBoard-Reset: Resets in %ResetTime% days
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Login to see achievements
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NEW HIGHSCORE
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Level up!
+Ingame--Time-Up: Time's up!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: OUT OF COINS
+Out-of-coin--Popup-Text: Click here to buy coins
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Loading...
+Loading--Popup-Text: Loading...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SOUND
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ART
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CODE
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CODE
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DESIGN
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Loading...
+Tips--Random-Tip-1: Leaderboard resets weekly basis and grants medal for the best!
+Tips--Random-Tip-2: You can drag and drop multiple bubbles into the blackhole.
+Tips--Random-Tip-3: Play faster to increase your multiplier and top your score.
+Tips--Random-Tip-4: Don’t get angry to friends who constantly beat your score!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NEW MEDAL
+Medal--Alert-Text: You earned a new %MedalName% medal last week by scoring %MedalScore% points.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: First game
+Achievement--Alert-Text--FIRSTGAME: Played a game
+Achievement--Alert-Title--MEDALGOLD: Weekly first
+Achievement--Alert-Text--MEDALGOLD: Weekly first
+Achievement--Alert-Title--MEDALSILVER: Weekly second
+Achievement--Alert-Text--MEDALSILVER: Weekly second
+Achievement--Alert-Title--MEDALBRONZE: Weekly third
+Achievement--Alert-Text--MEDALBRONZE: Weekly third
+Achievement--Alert-Title--SCORE1: Score 10000
+Achievement--Alert-Text--SCORE1: Score 10000
+Achievement--Alert-Title--SCORE2: Score 20000
+Achievement--Alert-Text--SCORE2: Score 20000
+Achievement--Alert-Title--SCORE3: Score 40000
+Achievement--Alert-Text--SCORE3: Score 40000
+Achievement--Alert-Title--SCORE4: Score 80000
+Achievement--Alert-Text--SCORE4: Score 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: ALRIGHT!
+Shaman--Blackhole: BLACKHOLE!
+Shaman--Nice: NICE!
+Shaman--Yeah: YEAH!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Level
+Common--Extra-Time: Extra Time!
+Common--Ready: Ready
+Common--Ready-Excl: Ready?
+Common--Go: Go
+Common--Go-Excl: Go!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Purchase Failed
+Dialog--Purchase-Fail-Text: Purchase couldn't be completed, please try again.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Skip
+Cinematic--Scene-01: Shamans gathered in the woods to show off their skills!
+Cinematic--Scene-02: a grak!
+Cinematic--Scene-03: a luys!
+Cinematic--Scene-04: a mahzun!
+Cinematic--Scene-05: a big failure...
+Cinematic--Scene-06: And so our journey begins to be a great shaman...

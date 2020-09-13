@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: 排行榜
+MainMenu--LeaderBoard-Login: 登入連線對戰
+MainMenu--LeaderBoard-Loading: 載入中...
+MainMenu--LeaderBoard-Friends: 好友 
+MainMenu--LeaderBoard-Global: 全球
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: 增益效果
+PreGame--PowerUp-Description-Select: 選擇一個或多個增益效果!
+PreGame--PowerUp-Description--combo-powerup: 最低分數乘二倍。
+PreGame--PowerUp-Description--time-powerup: 增加5秒鐘。
+PreGame--PowerUp-Description--boost-bomb: 增加法術範圍。
+PreGame--PowerUp-Description--boost-vortex: 延長黑洞1秒。
+PreGame--PowerUp-Description--boost-level-up: 增加升級法術範圍。
+
+PreGame--Skins-Title: 外觀
+PreGame--Skins-Coming-Soon: 即將推出…
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: 登入連線對戰
+EndGame--LeaderBoard-Reset: %ResetTime%天後歸零重置
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: 登入查看成就
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: 新高分紀錄
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: 等級
+Ingame--Time-Up: 時間到!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: 金幣不足
+Out-of-coin--Popup-Text: 點擊前往購買金幣
+
+
+# Loading Popup
+#
+Loading--Popup-Title: 載入中…
+Loading--Popup-Text: 載入中…
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: 聲音
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: 美術
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: 編碼
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: 編碼
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: 設計
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: 載入中...
+Tips--Random-Tip-1: 排行榜週週更新，週週頒獎!
+Tips--Random-Tip-2: 您可以拖曳數個氣泡到黑洞中。
+Tips--Random-Tip-3: 越早完成，分數加倍越多。
+Tips--Random-Tip-4: 勝敗乃兵家常事，別對好朋友動脾氣啊!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: 全新勳章
+Medal--Alert-Text: 根據上週排行%MedalScore%分數，您獲得了一個全新的%MedalName%勳章。
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: 首次進行遊戲
+Achievement--Alert-Text--FIRSTGAME: 已進行過遊戲
+Achievement--Alert-Title--MEDALGOLD: 本週第一名
+Achievement--Alert-Text--MEDALGOLD: 本週第一名
+Achievement--Alert-Title--MEDALSILVER: 本週第二名
+Achievement--Alert-Text--MEDALSILVER: 本週第二名
+Achievement--Alert-Title--MEDALBRONZE: 本週第三名
+Achievement--Alert-Text--MEDALBRONZE: 本週第三名
+Achievement--Alert-Title--SCORE1: 分數 10000
+Achievement--Alert-Text--SCORE1: 分數 10000
+Achievement--Alert-Title--SCORE2: 分數 20000
+Achievement--Alert-Text--SCORE2: 分數 20000
+Achievement--Alert-Title--SCORE3: 分數 40000
+Achievement--Alert-Text--SCORE3: 分數 40000
+Achievement--Alert-Title--SCORE4: 分數 80000
+Achievement--Alert-Text--SCORE4: 分數 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: 轟!
+Shaman--Alright: 就是這樣!
+Shaman--Blackhole: 黑洞!
+Shaman--Nice: 讚!
+Shaman--Yeah: 耶!
+
+
+# GenPop, shared phrases
+#
+Common--Level: 等級
+Common--Extra-Time: 額外時間!
+Common--Ready: 準備
+Common--Ready-Excl: 準備好了?
+Common--Go: 開始
+Common--Go-Excl: 開始!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: 購物失敗
+Dialog--Purchase-Fail-Text: 無法完成購物，請重新嘗試。
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: 略過
+Cinematic--Scene-01: 薩滿們為展示力量而聚集在森林中!
+Cinematic--Scene-02: 一隻格拉克!
+Cinematic--Scene-03: 一隻路伊斯!
+Cinematic--Scene-04: 一隻瑪赫屯!
+Cinematic--Scene-05: 一起嚴重的錯誤…
+Cinematic--Scene-06: 於是乎，我們就此踏上成為大薩滿的旅程...

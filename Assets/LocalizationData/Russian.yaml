@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Таблица Лидеров
+MainMenu--LeaderBoard-Login: Войдите и соревнуйтесь с другими
+MainMenu--LeaderBoard-Loading: Загружается...
+MainMenu--LeaderBoard-Friends: Друзья
+MainMenu--LeaderBoard-Global: Общее
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: УСИЛЕНИЯ
+PreGame--PowerUp-Description-Select: Выберите одно или несколько усилений!
+PreGame--PowerUp-Description--combo-powerup: Ваш множитель минимальных баллов становится х2.
+PreGame--PowerUp-Description--time-powerup: Добавляет еще 5 секунд к вашему времени.
+PreGame--PowerUp-Description--boost-bomb: Увеличивает радиус заклинания бомбы.
+PreGame--PowerUp-Description--boost-vortex: Черная дыра длится еще 1 секунду.
+PreGame--PowerUp-Description--boost-level-up: Увеличивает радиус заклинания повышения уровня.
+
+PreGame--Skins-Title: КОСТЮМЫ
+PreGame--Skins-Coming-Soon: Скоро...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Войди и соревнуйся с другими
+EndGame--LeaderBoard-Reset: В течении дня обнуляется %ResetTime%
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Войти для того, чтобы посмотреть достижения
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: НОВЫЙ ВЫСОКИЙ БАЛЛ
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Уровень
+Ingame--Time-Up: Время истекло!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: ЖЕТОНЫ ЗАКОНЧИЛИСЬ
+Out-of-coin--Popup-Text: Нажать здесь для того, чтобы купить жетоны
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Загружается...
+Loading--Popup-Text: Загружается...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: ЗВУК
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ИСКУССТВО
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: КОД
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: КОД
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: ДИЗАЙН
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Загружается...
+Tips--Random-Tip-1: Таблица лидеров сбрасывается еженедельно и предоставляет медали за лучшее!
+Tips--Random-Tip-2: Вы можете перетащить несколько пузырьков в черную дыру.
+Tips--Random-Tip-3: Играйте быстрее, чтобы увеличить свой множитель и увеличить свой счет.
+Tips--Random-Tip-4: Не сердитесь на друзей, которые постоянно бьют ваш счет!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: НОВАЯ МЕДАЛЬ
+Medal--Alert-Text: На прошлой неделе вы заработали новую медаль% MedalName%, набрав% MedalScore% очков.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Первая игра
+Achievement--Alert-Text--FIRSTGAME: Одна игра сыграна
+Achievement--Alert-Title--MEDALGOLD: Победитель недели
+Achievement--Alert-Text--MEDALGOLD: Победитель недели
+Achievement--Alert-Title--MEDALSILVER: Второе место недели
+Achievement--Alert-Text--MEDALSILVER: Второе место недели
+Achievement--Alert-Title--MEDALBRONZE: Третье место недели
+Achievement--Alert-Text--MEDALBRONZE: Третье место недели
+Achievement--Alert-Title--SCORE1: Баллы 10000
+Achievement--Alert-Text--SCORE1: Баллы 10000
+Achievement--Alert-Title--SCORE2: Баллы 20000
+Achievement--Alert-Text--SCORE2: Баллы 20000
+Achievement--Alert-Title--SCORE3: Баллы 40000
+Achievement--Alert-Text--SCORE3: Баллы 40000
+Achievement--Alert-Title--SCORE4: Баллы 80000
+Achievement--Alert-Text--SCORE4: Баллы 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: БУМ!
+Shaman--Alright: ХОРОШО!
+Shaman--Blackhole: ЧЕРНАЯ ДЫРА!
+Shaman--Nice: КРАСИВЫЙ!
+Shaman--Yeah: ДА!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Уровень
+Common--Extra-Time: Дополнительное время!
+Common--Ready: Готов
+Common--Ready-Excl: Готов?
+Common--Go: Идти
+Common--Go-Excl: Идти!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Покупка не удалась
+Dialog--Purchase-Fail-Text: Покупка не может быть завершена, пожалуйста, попробуйте еще раз.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Пропустить
+Cinematic--Scene-01: Шаманы собрались в лесу, чтобы показать свое мастерство!
+Cinematic--Scene-02: Грак!
+Cinematic--Scene-03: Люйс!
+Cinematic--Scene-04: Махзун!
+Cinematic--Scene-05: большая ошибка ...
+Cinematic--Scene-06: И таким образом начинается наш путь становления великим шаманом...

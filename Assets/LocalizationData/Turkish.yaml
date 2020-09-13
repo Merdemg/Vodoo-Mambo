@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Lider Tablosu
+MainMenu--LeaderBoard-Login: Oturum aç ve başkalarıyla yarış
+MainMenu--LeaderBoard-Loading: Yükleniyor...
+MainMenu--LeaderBoard-Friends: arkadaşlar
+MainMenu--LeaderBoard-Global: genel
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: TAKVİYE
+PreGame--PowerUp-Description-Select: En az bir takviye seçin!
+PreGame--PowerUp-Description--combo-powerup: Minimum puan çarpanınız x2 olur.
+PreGame--PowerUp-Description--time-powerup: Sürenize 5 saniye daha ekler.
+PreGame--PowerUp-Description--boost-bomb: Bomba büyüsünün çapını genişletir
+PreGame--PowerUp-Description--boost-vortex: Kara delik 1 saniye daha uzun sürer.
+PreGame--PowerUp-Description--boost-level-up: Seviye atlama büyüsünün çapını genişletir.
+
+PreGame--Skins-Title: KOSTÜMLER
+PreGame--Skins-Coming-Soon: Yakında Geliyor...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Oturum aç ve başkalarıyla yarış
+EndGame--LeaderBoard-Reset: %ResetTime% gün içinde sıfırlanır
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Başarıları görmek için oturum aç
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: YENİ YÜKSEK PUAN
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Seviye
+Ingame--Time-Up: Zaman doldu!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: JETONLARIN BİTTİ
+Out-of-coin--Popup-Text: Satın almak için buraya tıkla
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Yükleniyor...
+Loading--Popup-Text: Yükleniyor...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SES
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: SANAT
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: KOD
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: KOD
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: TASARIM
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: Yükleniyor...
+Tips--Random-Tip-1: Lider tablosu her hafta yenilenir ve en iyiyi madalya ile ödüllendirir!
+Tips--Random-Tip-2: Birden fazla baloncuğu sürükleyerek kara deliğe bırakabilirsin.
+Tips--Random-Tip-3: Çarpanını arttırmak ve puanını yükseltmek için daha hızlı oyna.
+Tips--Random-Tip-4: Skorunuzu sürekli geçen arkadaşlarınıza sinirlenmeyin!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: YENİ MADALYA
+Medal--Alert-Text: Geçtiğimiz hafta %MedalScore% puan alarak yeni bir %MedalName% madalyasını kazandınız.
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: İlk oyun
+Achievement--Alert-Text--FIRSTGAME: Bir oyun oynadı
+Achievement--Alert-Title--MEDALGOLD: Haftanın birincisi
+Achievement--Alert-Text--MEDALGOLD: Haftanın birincisi
+Achievement--Alert-Title--MEDALSILVER: Haftanın ikincisi
+Achievement--Alert-Text--MEDALSILVER: Haftanın ikincisi
+Achievement--Alert-Title--MEDALBRONZE: Haftanın üçüncüsü
+Achievement--Alert-Text--MEDALBRONZE: Haftanın üçüncüsü
+Achievement--Alert-Title--SCORE1: Puan 10000
+Achievement--Alert-Text--SCORE1: Puan 10000
+Achievement--Alert-Title--SCORE2: Puan 20000
+Achievement--Alert-Text--SCORE2: Puan 20000
+Achievement--Alert-Title--SCORE3: Puan 40000
+Achievement--Alert-Text--SCORE3: Puan 40000
+Achievement--Alert-Title--SCORE4: Puan 80000
+Achievement--Alert-Text--SCORE4: Puan 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: GÜM!
+Shaman--Alright: PEKALA!
+Shaman--Blackhole: KARADELİK!
+Shaman--Nice: GÜZEL!
+Shaman--Yeah: İŞTE BU!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Seviye
+Common--Extra-Time: Ekstra Süre!
+Common--Ready: Hazır
+Common--Ready-Excl: Hazır mısın?
+Common--Go: Başla
+Common--Go-Excl: Başla!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: Alım yapılamadı
+Dialog--Purchase-Fail-Text: Alım tamamlanamadı, lütfen tekrar dene.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Atla
+Cinematic--Scene-01: Şamanlar güçlerini göstermek için ormanda buluştu!
+Cinematic--Scene-02: bir grak!
+Cinematic--Scene-03: bir luys!
+Cinematic--Scene-04: bir mahzun!
+Cinematic--Scene-05: büyük bir hata...
+Cinematic--Scene-06: Ve ulu bir şaman olma yolculuğumuz böylece başlar...

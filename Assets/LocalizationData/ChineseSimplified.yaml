@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: 排行榜
+MainMenu--LeaderBoard-Login: 登录并与其他人比赛
+MainMenu--LeaderBoard-Loading: 载入中...
+MainMenu--LeaderBoard-Friends: 好友
+MainMenu--LeaderBoard-Global: 全部
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: 助推器
+PreGame--PowerUp-Description-Select: 选择至少一个助推器！
+PreGame--PowerUp-Description--combo-powerup: 您最低分数倍数是x2。
+PreGame--PowerUp-Description--time-powerup: 将会再增加5秒钟的时间。
+PreGame--PowerUp-Description--boost-bomb: 将会扩大炸弹魔术的直径
+PreGame--PowerUp-Description--boost-vortex: 黑洞时间将再持续1秒。
+PreGame--PowerUp-Description--boost-level-up: 扩大等级跳跃魔术的直径。
+
+PreGame--Skins-Title: 服装
+PreGame--Skins-Coming-Soon: 即将来临…
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: 登录并与其他人比赛
+EndGame--LeaderBoard-Reset: %ResetTime%天内将重置
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: 登录查看成绩
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: 新高分
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: 等级
+Ingame--Time-Up: 时间到了！
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: 你的铸币已结束
+Out-of-coin--Popup-Text: 点击这里购买
+
+
+# Loading Popup
+#
+Loading--Popup-Title: 载入中...
+Loading--Popup-Text: 载入中...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: 声音
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: 艺术
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: 代码
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: 代码
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: 设计
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: 载入中...
+Tips--Random-Tip-1: 排行榜每周更新，并以最好的奖牌奖励！
+Tips--Random-Tip-2: 您可以将多个气泡拖放到黑洞中。
+Tips--Random-Tip-3: 玩得更快，以增加乘数并增加分数。
+Tips--Random-Tip-4: 您可以将多个气泡拖放到黑洞中。
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: 新奖牌
+Medal--Alert-Text: 您上周通过得％MedalScore％分获得了新的MedalName％奖牌。
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: 第一局
+Achievement--Alert-Text--FIRSTGAME: 玩过一局游戏
+Achievement--Alert-Title--MEDALGOLD: 本周第一名
+Achievement--Alert-Text--MEDALGOLD: 本周第一名
+Achievement--Alert-Title--MEDALSILVER: 本周第二名
+Achievement--Alert-Text--MEDALSILVER: 本周第二名
+Achievement--Alert-Title--MEDALBRONZE: 本周第三名
+Achievement--Alert-Text--MEDALBRONZE: 本周第三名
+Achievement--Alert-Title--SCORE1: 得分 10000
+Achievement--Alert-Text--SCORE1: 得分 10000
+Achievement--Alert-Title--SCORE2: 得分 20000
+Achievement--Alert-Text--SCORE2: 得分 20000
+Achievement--Alert-Title--SCORE3: 得分 40000
+Achievement--Alert-Text--SCORE3: 得分 40000
+Achievement--Alert-Title--SCORE4: 得分 80000
+Achievement--Alert-Text--SCORE4: 得分 80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: 咣 ！
+Shaman--Alright: 好吧！
+Shaman--Blackhole: 黑洞！
+Shaman--Nice: 不错！
+Shaman--Yeah: 真棒！
+
+
+# GenPop, shared phrases
+#
+Common--Level: 等级
+Common--Extra-Time: 加时间！
+Common--Ready: 准备好
+Common--Ready-Excl: 你准备好了吗？
+Common--Go: 开始
+Common--Go-Excl: 开始！
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: 购买失败
+Dialog--Purchase-Fail-Text: 购买失败，请重试。
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: 跳过
+Cinematic--Scene-01: 萨满祭司们在丛林中见面以展示他们的力量！
+Cinematic--Scene-02: 一个戈雷克！
+Cinematic--Scene-03: 一个路易斯！
+Cinematic--Scene-04: 一个马赫孙！
+Cinematic--Scene-05: 大错误...
+Cinematic--Scene-06: 因此，我们成为一名伟大的萨满祭司的旅程就开始了…

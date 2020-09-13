@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: リーダーボード
+MainMenu--LeaderBoard-Login: ログインして他の参加者と競う
+MainMenu--LeaderBoard-Loading: ロード中...
+MainMenu--LeaderBoard-Friends: 友達
+MainMenu--LeaderBoard-Global: グローバル
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: ブースト
+PreGame--PowerUp-Description-Select: ブーストを1つ以上選択してください！
+PreGame--PowerUp-Description--combo-powerup: 最低スコアマルチプライヤーが2倍になります。
+PreGame--PowerUp-Description--time-powerup: 制限時間が5秒延長されます。
+PreGame--PowerUp-Description--boost-bomb: 爆弾マジックの半径が大きくなります
+PreGame--PowerUp-Description--boost-vortex: ブラックホールが1秒長くなります。
+PreGame--PowerUp-Description--boost-level-up: レベルアップマジックの半径が大きくなります
+
+PreGame--Skins-Title: コスチューム
+PreGame--Skins-Coming-Soon: 近日利用可能...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: ログインして他の参加者と競う
+EndGame--LeaderBoard-Reset: 後%ResetTime%日でリセットされます
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: ロングインして成績を見る
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: 新しいハイスコア
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: レベル
+Ingame--Time-Up: 制限時間終了！
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: コインが終わりました
+Out-of-coin--Popup-Text: ここをクリックしてコインを購入
+
+
+# Loading Popup
+#
+Loading--Popup-Title: ロード中...
+Loading--Popup-Text: ロード中...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: サウンド
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: アート
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: コード
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: コード
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: デザイン
+Credits--Design-Text: Silly\nTeam
+
+
+# Tips Screen
+# 
+Tips--Loading: ロード中...
+Tips--Random-Tip-1: リーダーボードは毎週リセットされ、最高スコア獲得者にメダルが付与されます！
+Tips--Random-Tip-2: 複数のバブルをブラックホールにドラッグしてドロップできます。
+Tips--Random-Tip-3: より速くプレイしてマルチプライヤ－を増やし、スコアを上げましょう。
+Tips--Random-Tip-4: スコアをいつも破ってくる友達に腹を立てないようにね！
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: 新メダル
+Medal--Alert-Text: 先週は、％MedalScore％ポイントを獲得して、新しい％MedalName％メダルを獲得しました。
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: 最初のゲーム
+Achievement--Alert-Text--FIRSTGAME: 1つのゲームをプレイしました
+Achievement--Alert-Title--MEDALGOLD: 週のナンバー１
+Achievement--Alert-Text--MEDALGOLD: 週のナンバー１
+Achievement--Alert-Title--MEDALSILVER: 週のナンバー２
+Achievement--Alert-Text--MEDALSILVER: 週のナンバー２
+Achievement--Alert-Title--MEDALBRONZE: 週のナンバー３
+Achievement--Alert-Text--MEDALBRONZE: 週のナンバー３
+Achievement--Alert-Title--SCORE1: スコア　10000
+Achievement--Alert-Text--SCORE1: スコア　10000
+Achievement--Alert-Title--SCORE2: スコア　20000
+Achievement--Alert-Text--SCORE2: スコア　20000
+Achievement--Alert-Title--SCORE3: スコア　40000
+Achievement--Alert-Text--SCORE3: スコア　40000
+Achievement--Alert-Title--SCORE4: スコア　80000
+Achievement--Alert-Text--SCORE4: スコア　80000
+
+
+# Shaman Lines
+#
+Shaman--Boom: ドッカーン！
+Shaman--Alright: よーし！
+Shaman--Blackhole: ブラックホール！
+Shaman--Nice: ナイス！
+Shaman--Yeah: イェー！
+
+
+# GenPop, shared phrases
+#
+Common--Level: レベル
+Common--Extra-Time: 時間延長！
+Common--Ready: 準備
+Common--Ready-Excl: 準備OK？
+Common--Go: 開始
+Common--Go-Excl: 開始！！
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: 購入できませんでした
+Dialog--Purchase-Fail-Text: 購入を完了できませんでした。もう一度試してください。
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: スキップ
+Cinematic--Scene-01: シャーマンたちが森に集まってスキルを披露しました！
+Cinematic--Scene-02: グラック！
+Cinematic--Scene-03: ルイス！
+Cinematic--Scene-04: マフズン！
+Cinematic--Scene-05: 大失敗...
+Cinematic--Scene-06: そして、偉大なシャーマンになる旅が始まる...

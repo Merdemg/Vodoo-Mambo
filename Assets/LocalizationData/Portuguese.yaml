@@ -1,0 +1,140 @@
+# MainMenu Panel
+#
+MainMenu--LeaderBoard-Title: Entre os Melhores
+MainMenu--LeaderBoard-Login: Entre e concorra com os outros
+MainMenu--LeaderBoard-Loading: Carregando...
+MainMenu--LeaderBoard-Friends: amigos
+MainMenu--LeaderBoard-Global: geral
+
+
+# PreGame Panel
+#
+PreGame--PowerUp-Title: REFORÇOS
+PreGame--PowerUp-Description-Select: Selecione um ou mais reforços!
+PreGame--PowerUp-Description--combo-powerup: Seu multiplicador de pontuação mínima é x2.
+PreGame--PowerUp-Description--time-powerup: Adiciona mais 5 segundos ao seu tempo.
+PreGame--PowerUp-Description--boost-bomb: Aumenta o raio do feitiço de bomba
+PreGame--PowerUp-Description--boost-vortex: O buraco negro dura mais 1 segundo.
+PreGame--PowerUp-Description--boost-level-up: Aumenta o raio do feitiço de aumento de nível.
+
+PreGame--Skins-Title: PELE
+PreGame--Skins-Coming-Soon: Em breve...
+
+
+# EndGame Panel
+#
+EndGame--LeaderBoard-Login: Entre e concorra com outras pessoas
+EndGame--LeaderBoard-Reset: Redefine em %ResetTime% dias
+
+
+# Profile Panel
+#
+Profile--Achievements-Login: Entre para ver conquistas
+
+
+# Highscore Popup
+#
+Highscore--Popup-Title: NOVO RECORDE
+
+
+# In-game Midscreen Messages
+#
+Ingame--Level-Up: Nível
+Ingame--Time-Up: Acabou o tempo!
+
+
+# Out-of-coin Popup
+# 
+Out-of-coin--Popup-Title: SEM MOEDAS
+Out-of-coin--Popup-Text: Clique aqui para comprar moedas
+
+
+# Loading Popup
+#
+Loading--Popup-Title: Carregando...
+Loading--Popup-Text: Carregando...
+
+
+# Credits Canvas
+#
+Credits--Sound-Title: SOM
+Credits--Sound-Text: Guney\nOzsan
+Credits--Graphics-Title: ARTE
+Credits--Graphics-Text: Murat\nKalkavan
+Credits--Code-Title: CÓDIGO
+Credits--Code-Text: Alp\nUrut
+Credits--CodeF-Title: CÓDIGO
+Credits--CodeF-Text: Fatih\nBatal
+Credits--Design-Title: DESIGN
+Credits--Design-Text: Silly\n Equipe
+
+
+# Tips Screen
+# 
+Tips--Loading: Carregando...
+Tips--Random-Tip-1: A classificação é redefinida semanalmente e concede medalha para o melhor!
+Tips--Random-Tip-2: Você pode arrastar e soltar várias bolhas no buraco negro.
+Tips--Random-Tip-3: Jogue mais rápido para aumentar seu multiplicador e atingir sua pontuação.
+Tips--Random-Tip-4: Não fique irritado com os amigos que constantemente superam sua pontuação!
+
+
+# Medal Alerts
+# 
+Medal--Popup-Title: NOVA MEDALHA
+Medal--Alert-Text: Você ganhou uma nova medalha %MedalName% na semana passada ao obter %MedalScore% pontos
+
+
+# Achievement Alerts
+#
+Achievement--Alert-Title--FIRSTGAME: Primeiro jogo
+Achievement--Alert-Text--FIRSTGAME: Jogou um jogo
+Achievement--Alert-Title--MEDALGOLD: Primeiro da semana
+Achievement--Alert-Text--MEDALGOLD: Primeiro da semana
+Achievement--Alert-Title--MEDALSILVER: Segundo da semana
+Achievement--Alert-Text--MEDALSILVER: Segundo da semana
+Achievement--Alert-Title--MEDALBRONZE: Terceiro da semana
+Achievement--Alert-Text--MEDALBRONZE: Terceiro da semana
+Achievement--Alert-Title--SCORE1: 10000 Pontos
+Achievement--Alert-Text--SCORE1: 10000 Pontos
+Achievement--Alert-Title--SCORE2: 20000 Pontos
+Achievement--Alert-Text--SCORE2: 20000 Pontos
+Achievement--Alert-Title--SCORE3: 40000 Pontos
+Achievement--Alert-Text--SCORE3: 40000 Pontos
+Achievement--Alert-Title--SCORE4: 80000 Pontos
+Achievement--Alert-Text--SCORE4: 80000 Pontos
+
+
+# Shaman Lines
+#
+Shaman--Boom: BOOM!
+Shaman--Alright: MUITO BEM!
+Shaman--Blackhole: BURACO NEGRO!
+Shaman--Nice: LEGAL!
+Shaman--Yeah: É ISSO AÍ!
+
+
+# GenPop, shared phrases
+#
+Common--Level: Nível
+Common--Extra-Time: Tempo extra!
+Common--Ready: Pronto
+Common--Ready-Excl: Pronto?
+Common--Go: Começar
+Common--Go-Excl: Começa!!
+
+
+# Dialog Messages
+#
+Dialog--Purchase-Fail-Title: A compra falhou
+Dialog--Purchase-Fail-Text: Não foi possível concluir a compra. Tente novamente.
+
+
+# Cinematic
+#
+Cinematic--Button-Skip: Pular
+Cinematic--Scene-01: Xamãs se reuniram na floresta para mostrar suas habilidades!
+Cinematic--Scene-02: um grak!
+Cinematic--Scene-03: um luys!
+Cinematic--Scene-04: um mahzun!
+Cinematic--Scene-05: um grande fracasso...
+Cinematic--Scene-06: E assim começa nossa jornada para a ser um grande xamã…
