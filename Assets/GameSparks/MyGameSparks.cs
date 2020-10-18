@@ -659,6 +659,70 @@ namespace GameSparks.Api.Requests{
 		}			
 	}
 	
+	public class LogEventRequest_TEST_GETCOINS : GSTypedRequest<LogEventRequest_TEST_GETCOINS, LogEventResponse>
+	{
+	
+		protected override GSTypedResponse BuildResponse (GSObject response){
+			return new LogEventResponse (response);
+		}
+		
+		public LogEventRequest_TEST_GETCOINS() : base("LogEventRequest"){
+			request.AddString("eventKey", "TEST_GETCOINS");
+		}
+	}
+	
+	public class LogChallengeEventRequest_TEST_GETCOINS : GSTypedRequest<LogChallengeEventRequest_TEST_GETCOINS, LogChallengeEventResponse>
+	{
+		public LogChallengeEventRequest_TEST_GETCOINS() : base("LogChallengeEventRequest"){
+			request.AddString("eventKey", "TEST_GETCOINS");
+		}
+		
+		protected override GSTypedResponse BuildResponse (GSObject response){
+			return new LogChallengeEventResponse (response);
+		}
+		
+		/// <summary>
+		/// The challenge ID instance to target
+		/// </summary>
+		public LogChallengeEventRequest_TEST_GETCOINS SetChallengeInstanceId( String challengeInstanceId )
+		{
+			request.AddString("challengeInstanceId", challengeInstanceId);
+			return this;
+		}
+	}
+	
+	public class LogEventRequest_TEST_DAILY : GSTypedRequest<LogEventRequest_TEST_DAILY, LogEventResponse>
+	{
+	
+		protected override GSTypedResponse BuildResponse (GSObject response){
+			return new LogEventResponse (response);
+		}
+		
+		public LogEventRequest_TEST_DAILY() : base("LogEventRequest"){
+			request.AddString("eventKey", "TEST_DAILY");
+		}
+	}
+	
+	public class LogChallengeEventRequest_TEST_DAILY : GSTypedRequest<LogChallengeEventRequest_TEST_DAILY, LogChallengeEventResponse>
+	{
+		public LogChallengeEventRequest_TEST_DAILY() : base("LogChallengeEventRequest"){
+			request.AddString("eventKey", "TEST_DAILY");
+		}
+		
+		protected override GSTypedResponse BuildResponse (GSObject response){
+			return new LogChallengeEventResponse (response);
+		}
+		
+		/// <summary>
+		/// The challenge ID instance to target
+		/// </summary>
+		public LogChallengeEventRequest_TEST_DAILY SetChallengeInstanceId( String challengeInstanceId )
+		{
+			request.AddString("challengeInstanceId", challengeInstanceId);
+			return this;
+		}
+	}
+	
 	public class LogEventRequest_EVT_TESTPUSH : GSTypedRequest<LogEventRequest_EVT_TESTPUSH, LogEventResponse>
 	{
 	
@@ -931,6 +995,32 @@ namespace GameSparks.Api.Responses{
 
 namespace GameSparks.Api.Messages {
 
+		public class ScriptMessage_PUSH_LBRESET : ScriptMessage {
+		
+			public new static Action<ScriptMessage_PUSH_LBRESET> Listener;
+	
+			public ScriptMessage_PUSH_LBRESET(GSData data) : base(data){}
+	
+			private static ScriptMessage_PUSH_LBRESET Create(GSData data)
+			{
+				ScriptMessage_PUSH_LBRESET message = new ScriptMessage_PUSH_LBRESET (data);
+				return message;
+			}
+	
+			static ScriptMessage_PUSH_LBRESET()
+			{
+				handlers.Add (".ScriptMessage_PUSH_LBRESET", Create);
+	
+			}
+			
+			override public void NotifyListeners()
+			{
+				if (Listener != null)
+				{
+					Listener (this);
+				}
+			}
+		}
 		public class ScriptMessage_testmsg : ScriptMessage {
 		
 			public new static Action<ScriptMessage_testmsg> Listener;

@@ -35,6 +35,8 @@ public class MetaManager : MonoBehaviour
     [SerializeField]int _localCoins;
     [SerializeField]string[] _localAchievements;
 
+    [SerializeField] GooglePlayManager googlePlayManager = null;
+
     void Start()
     {
         _localName = (string)GetLocal(MetaType.name);
@@ -226,7 +228,10 @@ public class MetaManager : MonoBehaviour
                 int score = (int)value;
 
                 GameSparksManager.Instance.PostScore(score);
-                GameCenterManager.Instance.PostScoreOnLeaderBoard(score);
+
+                // ERDEM - android tiem yo
+                //GameCenterManager.Instance.PostScoreOnLeaderBoard(score);
+                googlePlayManager.AddScoreToLeaderboard(GPGSIds.leaderboard_leaderboard, score);
 
                 // Set local score only when online. Use this to update server score when first logged in.
                 int localWeeklyScore = (int)GetLocal(MetaType.weeklyScore);
