@@ -7,18 +7,71 @@ using UnityEngine.SocialPlatforms;
 
 public class GooglePlayManager : MonoBehaviour
 {
-    public PlayGamesPlatform platform;
+    private bool mAuthenticating = false;
+    
+    public bool Authenticating
+    {
+        get { return mAuthenticating; }
+    }
+
+    public bool Authenticated
+    {
+        get { return Social.Active.localUser.authenticated; }
+    }
+
+    //public PlayGamesPlatform platform;
 
     // Start is called before the first frame update
     void Start()
     {
-        PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().Build();
+        Authenticate();
+
+        //PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder().Build();
+        //PlayGamesPlatform.InitializeInstance(config);
+        //PlayGamesPlatform.DebugLogEnabled = true;
+        //PlayGamesPlatform.Activate();
+
+
+        //SignIn();
+    }
+
+    public void Authenticate()
+    {
+        if (Authenticated || mAuthenticating)
+        {
+            Debug.LogWarning("Ignoring repeated call to Authenticate().");
+            return;
+        }
+
+        PlayGamesClientConfiguration config = new PlayGamesClientConfiguration.Builder()
+                //.EnableSavedGames()
+                .Build();
         PlayGamesPlatform.InitializeInstance(config);
-        PlayGamesPlatform.DebugLogEnabled = true;
+
+        // Activate the Play Games platform. This will make it the default
+        // implementation of Social.Active
         PlayGamesPlatform.Activate();
 
+        // Set the default leaderboard for the leaderboards UI
+        //((PlayGamesPlatform)Social.Active).SetDefaultLeaderboardForUI(GameIds.LeaderboardId);
 
-        SignIn();
+        // Sign in to Google Play Games
+        mAuthenticating = true;
+        Social.localUser.Authenticate((bool success) =>
+        {
+            mAuthenticating = false;
+            if (success)
+            {
+                // if we signed in successfully, load data from cloud
+                Debug.Log("Login successful!");
+            }
+            else
+            {
+                // no need to show error message (error messages are shown automatically
+                // by plugin)
+                Debug.LogWarning("Failed to sign in with Google Play Games.");
+            }
+        });
     }
 
 
@@ -60,9 +113,14 @@ public class GooglePlayManager : MonoBehaviour
 
     public void ShowLeaderboard()
     {
-        testSignIn();
+        if (Authenticated)
+        {
+            Social.ShowLeaderboardUI();
+        }
 
-        Social.Active.ShowLeaderboardUI();
+        //testSignIn();
+
+        //Social.Active.ShowLeaderboardUI();
         //PlayGamesPlatform.Instance.ShowLeaderboardUI();
     }
 }
